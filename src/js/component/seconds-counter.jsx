@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { PropTypes } from 'prop-types';
 
 const SecondsCounter = (props) => {
