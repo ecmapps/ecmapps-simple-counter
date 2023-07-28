@@ -6,7 +6,7 @@ import SecondsCounter from "./seconds-counter";
 const Home = () => {
 	return (
 		<div className="d-flex justify-content-center">
-			<SecondsCounter />
+			<SecondsCounter seconds={2}/>
 		</div>
 	);
 };
